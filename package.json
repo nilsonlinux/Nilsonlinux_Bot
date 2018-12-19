@@ -1,0 +1,26 @@
+{
+  "name": "nilsonlinux_bot",
+  "version": "1.0.0",
+  "description": "Bot_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "/buscacep"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilsonlinux/Nilsonlinux_bot.git"
+  },
+  "keywords": [
+    "busca",
+    "cep"
+  ],
+  "author": "nilsonlinux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nilsonlinux/Nilsonlinux_bot/issues"
+  },
+  "homepage": "https://github.com/nilsonlinux/Nilsonlinux_bot#readme",
+  "dependencies": {
+    "telegram-node-bot": "^4.0.5"
+  }
+}

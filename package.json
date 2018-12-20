@@ -1,26 +1,14 @@
 {
-  "name": "nilsonlinux_bot",
+  "name": "telegram-bot",
   "version": "1.0.0",
-  "description": "Bot_test",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "/buscacep"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nilsonlinux/Nilsonlinux_bot.git"
-  },
-  "keywords": [
-    "busca",
-    "cep"
-  ],
-  "author": "nilsonlinux",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nilsonlinux/Nilsonlinux_bot/issues"
-  },
-  "homepage": "https://github.com/nilsonlinux/Nilsonlinux_bot#readme",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "telegram-node-bot": "^4.0.5"
+    "node-telegram-bot-api": "^0.30.0"
   }
 }
